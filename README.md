@@ -2,7 +2,7 @@
 
 hacker scripts
 
-Hackeando o dia a dia num escritório de arquitetura
+Hackeando o dia a dia de escritório de arquitetura
 
 ## scripts
 
