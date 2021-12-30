@@ -17,7 +17,7 @@
         <li><a href="https://github.com/Arquitetura-Aberta/hacker-scripts/tree/main/pytube">baixando vídeo do youtube com Python</a></li>
         <li><a href="https://github.com/Arquitetura-Aberta/hacker-scripts/tree/main/color_rgb/color_r">extraindo canais rgb de uma imagem .jpeg com R</a></li>
         <li><a href="https://github.com/Arquitetura-Aberta/hacker-scripts/tree/main/color_rgb/color_py">extraindo canais rgb de uma imagem .jpeg com Python</a></li>
-        <li><a href="#">preenchimento automático Google Docs a partir de dados do Google Sheets usando o Google Apps Script e javascript</a></li>
+        <li><a href="https://github.com/Arquitetura-Aberta/hacker-scripts/tree/main/google_apps_scripts">preenchimento automático Google Docs a partir de dados do Google Sheets usando o Google Apps Script e javascript</a></li>
     </ul>
 </body>
 </html>
