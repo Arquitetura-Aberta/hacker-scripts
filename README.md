@@ -24,3 +24,5 @@
 
 
 https://www.tutorialspoint.com/how-to-convert-pdf-files-to-excel-files-using-python
+
+[Crie um aplicativo da Web do Apps Script](https://techandeco.medium.com/create-an-apps-script-web-app-to-collect-phone-numbers-to-text-message-customers-updates-b0fccc9b10d4)
